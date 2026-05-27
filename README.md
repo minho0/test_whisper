@@ -1,6 +1,6 @@
 # Faster-Whisper WAV Test
 
-## Setup
+## Setup ( venv & pip install )
 
 ```bash
 

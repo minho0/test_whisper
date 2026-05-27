@@ -12,8 +12,6 @@ pip install faster-whisper
 
 ## Download Model
 
-Thor에서 사용하던 모델과 동일한 revision을 다운로드합니다.
-
 ```bash
 mkdir -p models
 
